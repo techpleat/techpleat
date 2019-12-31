@@ -23,6 +23,15 @@
       "price": "₹ 59,990,$ 845.00,£ 645.00,€ 711.64",
       "launchDate": "Jan 10, 2020",
       "rating": "4.6"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Redmi Note 8 Pro",
+      "brand": "Xiaomi",
+      "price": "₹ 14,999, $ 181.99, £ 179.00, € 222.904",
+      "launchDate": "Sept 10, 2019",
+      "rating": "4.2"
     }
+
   ]
 }

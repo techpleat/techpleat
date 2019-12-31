@@ -1,0 +1,32 @@
+{
+    "timeline": [
+        {
+            "timestamp": 1568073600,
+            "type": "launch",
+            "author": "Xiaomi",
+            "title": "#64MPQuadCamBeast Xiaomi Product Launch",
+            "link": "https://www.youtube.com/watch?v=O1rkw4BLrEI"
+        },
+        {
+            "timestamp":1572825600,
+            "type": "video",
+            "author": "TechBar",
+            "title": "Kamaal PERFORMANCE? - Redmi Note 8 Pro Review After 1 Month",
+            "link": "https://www.youtube.com/watch?v=xjWNaV4Lte8"
+        },
+        {
+            "timestamp":1571184000,
+            "type": "video",
+            "author": "Technical Guruji",
+            "title": "Redmi Note 8 Pro Unboxing & First Look + Giveaway | Quad Cam Performance Monster🔥🔥🔥",
+            "link": "https://www.youtube.com/watch?v=CnU0aE5Zq0Q"
+        },
+        {
+            "timestamp":1574726400,
+            "type": "video",
+            "author": "Geekyranjit",
+            "title": "Redmi Note 8 Pro Review with Pros & Cons Best Mid Range Smartphone?"
+            "link": "https://www.youtube.com/watch?v=IIP3l-_WNbE"
+        }
+    ]
+}
