@@ -8,19 +8,19 @@
     },
     {
       "id": 1,
-      "name": "iphone 11",
+      "title": "iphone 11",
       "timestamp":1577318400,
       "Author": "Shreejit"
     },
     {
       "id": 2,
-      "name": "Samsung Note 10 Lite",
+      "title": "Samsung Note 10 Lite",
       "timestamp":1577664000,
       "Author": "Shreejit"
     },
     {
       "id": 3,
-      "name": "Xiaomi Redmi Note 8 Pro",
+      "title": "Xiaomi Redmi Note 8 Pro",
       "timestamp":1577750400,
       "Author": "Shreejit"
     }
