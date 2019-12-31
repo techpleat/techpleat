@@ -1,28 +1,28 @@
 {
-  "Blog": [
+  "blog": [
     {
       "id": 0,
       "title": "OnePlus 7",
-      "timestamp":1577232000,
-      "Author": "Shreejit"
+      "timestamp": 1577232000,
+      "author": "Shreejit"
     },
     {
       "id": 1,
-      "name": "iphone 11",
-      "timestamp":1577318400,
-      "Author": "Shreejit"
+      "title": "iphone 11",
+      "timestamp": 1577318400,
+      "author": "Shreejit"
     },
     {
       "id": 2,
-      "name": "Samsung Note 10 Lite",
-      "timestamp":1577664000,
-      "Author": "Shreejit"
+      "title": "Samsung Note 10 Lite",
+      "timestamp": 1577664000,
+      "author": "Shreejit"
     },
     {
       "id": 3,
-      "name": "Xiaomi Redmi Note 8 Pro",
-      "timestamp":1577750400,
-      "Author": "Shreejit"
+      "title": "Xiaomi Redmi Note 8 Pro",
+      "timestamp": 1577750400,
+      "author": "Shreejit"
     }
 
   ]
