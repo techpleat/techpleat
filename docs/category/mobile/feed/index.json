@@ -1,0 +1,58 @@
+{
+  "feed": [
+    {
+      "id": 0,
+      "title": "Best mobiles under 15000₹",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    },
+    {
+      "id": 1,
+      "title": "Best mobiles under 25000₹",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    },
+    {
+      "id": 2,
+      "title": "Best mobiles under 35000₹",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    },
+    {
+      "id": 3,
+      "title": "Best mobiles under 45000₹",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    },
+    {
+      "id": 4,
+      "title": "Best Camera mobiles",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    },
+    {
+      "id": 5,
+      "title": "Best Camera mobiles for photographers",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    },
+    {
+      "id": 6,
+      "title": "Best Gaming mobiles",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    },
+    {
+      "id": 7,
+      "title": "Mobiles with best battery backup",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    },
+    {
+      "id": 8,
+      "title": "Best Gaming mobiles",
+      "timestamp":1577232000,
+      "author": "Devendra Parhate"
+    }
+  ]
+}
