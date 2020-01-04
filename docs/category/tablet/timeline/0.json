@@ -1,0 +1,18 @@
+{
+    "timeline": [
+        {
+            "timestamp": 1557792000,
+            "type": "launch",
+            "author": "OnePlus",
+            "title": "Launch event",
+            "link": "https://www.youtube.com/watch?v=tq26eVb_-ww"
+        },
+        {
+            "timestamp":1561075200,
+            "type": "video",
+            "author": "MKBHD",
+            "title": "OnePlus 7: Way Under the Radar!",
+            "link": "https://www.youtube.com/watch?v=MOJ1_FtDGNs"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "product": [
+    {
+      "id": 0,
+      "name": "Name",
+      "brand": "Brand",
+      "price": "₹xxxx,$xxx.xx,£xxx.xx,€xxx.xx",
+      "launchDate": "mmm dd, YYYY",
+      "rating": "x.x"
+    }
+  ]
+}

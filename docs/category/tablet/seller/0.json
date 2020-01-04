@@ -1,0 +1,29 @@
+{
+  "INR": [
+    {
+      "vendor": "amazon",
+      "link": "https://amzn.to/xxxx",
+      "price": "34999.00"
+    },
+    {
+      "vendor": "flipkart",
+      "link": "https://www.flipkart.com/xxx",
+      "price": "30999.00"
+    }
+  ],
+  "USD": [
+    {
+      "vendor": "amazon",
+      "link": "https://amzn.to/xxx",
+      "price": "34999.00"
+    },
+    {
+      "vendor": "flipkart",
+      "link": "https://www.flipkart.com/xxxx",
+      "price": "30999.00"
+    }
+
+  ]
+
+
+}
