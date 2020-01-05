@@ -2,25 +2,25 @@
   "feed": [
     {
       "id": 0,
-      "title": "Best mobiles under 15000₹",
+      "title": "Best mobiles under Budget Phones",
       "timestamp":1577232000,
       "author": "Devendra Parhate"
     },
     {
       "id": 1,
-      "title": "Best mobiles under 25000₹",
+      "title": "Best mobiles Mid Range",
       "timestamp":1577232000,
       "author": "Devendra Parhate"
     },
     {
       "id": 2,
-      "title": "Best mobiles under 35000₹",
+      "title": "Best mobiles under High End",
       "timestamp":1577232000,
       "author": "Devendra Parhate"
     },
     {
       "id": 3,
-      "title": "Best mobiles under 45000₹",
+      "title": "Best mobiles Flagships",
       "timestamp":1577232000,
       "author": "Devendra Parhate"
     },
