@@ -22,14 +22,11 @@
     },
     {
       "name": "Rear Camera",
-      "value": "64 MP, f/1.9, 26mm (wide), 1/1.7", 0.8µm, PDAF
-8 MP, f/2.2, 13mm (ultrawide), 1/4.0", 1.12µm
-2 MP, f/2.4, 1/5", 1.75µm (dedicated macro camera)
-2 MP, f/2.4, 1/5", 1.75µm, depth sensor"
+      "value": "64 MP, f/1.9, 26mm (wide), 1/1.7, 0.8µm, PDAF8 MP, f/2.2, 13mm (ultrawide), 1/4.0, 1.12µm2 MP, f/2.4, 1/5, 1.75µm (dedicated macro camera)2 MP, f/2.4, 1/5, 1.75µm, depth sensor"
     },
     {
       "name": "Front Camera",
-      "value": "20 MP, f/2.0, (wide), 1/3", 0.9µm"
+      "value": "20 MP, f/2.0, (wide), 1/3, 0.9µm"
     },
     {
       "name": "Display",
