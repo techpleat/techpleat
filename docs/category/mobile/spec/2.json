@@ -22,13 +22,11 @@
     },
     {
       "name": "Rear Camera",
-      "value": "12 MP, f/1.7, 27mm (wide), 1/2.55", 1.4µm, Dual Pixel PDAF
-12 MP, f/2.4, 52mm (telephoto), 1/3.6", 1.0µm, PDAF, 2x optical zoom
-12 MP, f/2.2, 13mm (ultrawide), 1.12µm"
+      "value": "12 MP, f/1.7, 27mm (wide), 1/2.55, 1.4µm, Dual Pixel PDAF12 MP, f/2.4, 52mm (telephoto), 1/3.6, 1.0µm, PDAF, 2x optical zoom12 MP, f/2.2, 13mm (ultrawide), 1.12µm"
     },
     {
       "name": "Front Camera",
-      "value": "32 MP, f/2.0, 25mm (wide), 1/2.8", 0.8µm, AF"
+      "value": "32 MP, f/2.0, 25mm (wide), 1/2.8, 0.8µm, AF"
     },
     {
       "name": "Display",
