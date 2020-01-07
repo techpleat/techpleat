@@ -1,0 +1,29 @@
+{
+  "INR": [
+    {
+      "vendor": "amazon",
+      "link": "https://amzn.to/36xHbv9",
+      "price": "16999.00"
+    },
+    {
+      "vendor": "flipkart",
+      "link": "https://www.flipkart.com/samsung-galaxy-m30s-blue-64-gb/p/itmd5730f5bdb0b1",
+      "price": "15495.00"
+    }
+  ],
+  "USD": [
+    {
+      "vendor": "amazon",
+      "link": "",
+      "price": ""
+    },
+    {
+      "vendor": "bestbuy",
+      "link": "",
+      "price": ""
+    }
+
+  ]
+
+
+}

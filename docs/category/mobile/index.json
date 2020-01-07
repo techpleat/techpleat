@@ -31,6 +31,14 @@
       "price": "₹ 14,999, $ 181.99, £ 179.00, € 222.904",
       "launchDate": "Sept 10, 2019",
       "rating": "4.2"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy M30s",
+      "brand": "Samsung",
+      "price": "₹ 13,999, $ 269.00, £ 216.90, € 208.04",
+      "launchDate": "Sept 09, 2019",
+      "rating": "4.3"
     }
 
   ]
