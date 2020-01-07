@@ -39,6 +39,14 @@
       "price": "₹ 13,999, $ 269.00, £ 216.90, € 208.04",
       "launchDate": "Sept 09, 2019",
       "rating": "4.3"
+    },
+    {
+      "id": 5,
+      "name": "Realme XT",
+      "brand": "Realme",
+      "price": "₹ 15,923, $ 256.49, £ 219.00, 236.635",
+      "launchDate": "Sept 09, 2019",
+      "rating": "4.3"
     }
 
   ]

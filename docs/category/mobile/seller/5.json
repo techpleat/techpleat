@@ -1,0 +1,29 @@
+{
+  "INR": [
+    {
+      "vendor": "amazon",
+      "link": "https://amzn.to/2QVdgqf",
+      "price": "17999.00"
+    },
+    {
+      "vendor": "flipkart",
+      "link": "https://www.flipkart.com/realme-xt-pearl-blue-64-gb/p/itm731360fdbd273?pid=MOBFJYBE25FEJZJN&lid=LSTMOBFJYBE25FEJZJN432EHB&marketplace=FLIPKART&sattr[]=color&sattr[]=storage&sattr[]=ram&st=ram",
+      "price": "16999.00"
+    }
+  ],
+  "USD": [
+    {
+      "vendor": "amazon",
+      "link": "",
+      "price": ""
+    },
+    {
+      "vendor": "bestbuy",
+      "link": "",
+      "price": ""
+    }
+
+  ]
+
+
+}
