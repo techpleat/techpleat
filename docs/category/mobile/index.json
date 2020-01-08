@@ -63,6 +63,14 @@
       "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
       "launchDate": "May 10, 2019",
       "rating": "4.3"
+    },
+    {
+      "id": 8,
+      "name": "Realme X",
+      "brand": "Realme",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
     }
 
   ]
