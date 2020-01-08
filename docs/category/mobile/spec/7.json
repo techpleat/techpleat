@@ -1,0 +1,48 @@
+{
+  "spec": [
+    {
+      "name": "RAM",
+      "value": "4gb"
+    },
+    {
+      "name": "Chipset",
+      "value": "Exynos 9609 | Octa-core 2.2 GHz"
+    },
+    {
+      "name": "Battery",
+      "value": "3500 mAh battery"
+    },
+    {
+      "name": "Dimensions",
+      "value": "160.1 x 71.2 x 8.7 mm (6.30 x 2.80 x 0.34 in)"
+    },
+    {
+      "name": "Weight",
+      "value": "180 g (6.35 oz)"
+    },
+    {
+      "name": "Rear Camera",
+      "value": "48 MP, f/1.7, (wide), 1/2.0, 0.8µm, PDAF, OIS |5 MP, f/2.2, depth sensor"
+    },
+    {
+      "name": "Front Camera",
+      "value": "25 MP, f/2.0, 0.9µm"
+    },
+    {
+      "name": "Display",
+      "value": "6.3 inches"
+    },
+    {
+      "name": "Display Type",
+      "value": "LTPS IPS LCD capacitive touchscreen, 16M colors"
+    },
+    {
+      "name": "Screen Resolution",
+      "value": "1080 x 2520 pixels, 21:9 ratio (~432 ppi density)"
+    },
+    {
+      "name": "Graphics",
+      "value": "Mali-G72 MP3"
+    }
+  ]
+}
