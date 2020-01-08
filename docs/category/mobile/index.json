@@ -71,7 +71,262 @@
       "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
       "launchDate": "May 29, 2019",
       "rating": "4.2"
+    },
+    {
+      "id": 9,
+      "name": "Vivo U20",
+      "brand": "Vivo",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 10,
+      "name": "Vivo U20",
+      "brand": "Vivo",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 11,
+      "name": "Vivo Z1 Pro",
+      "brand": "Vivo",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 12,
+      "name": "Samsung S9",
+      "brand": "Samsung",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 13,
+      "name": "OnePlus 7T",
+      "brand": "OnePlus",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 14,
+      "name": "Realme X2 Pro",
+      "brand": "Realme",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 15,
+      "name": "Google Pixel 3a",
+      "brand": "Google",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 16,
+      "name": "Redmi K20 Pro",
+      "brand": "Redmi",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 17,
+      "name": "Oppo Reno 2 Z",
+      "brand": "Oppo",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 18,
+      "name": "Samsung Galaxy A70",
+      "brand": "Samsung",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 19,
+      "name": "Honor View 20",
+      "brand": "Honor",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 19,
+      "name": "Asus Zenfone 6",
+      "brand": "Asus",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 20,
+      "name": "Asus Zenfone 6",
+      "brand": "Asus",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 21,
+      "name": "OnePlus 7 Pro",
+      "brand": "OnePlus",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 22,
+      "name": "OnePlus 7T Pro",
+      "brand": "OnePlus",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 23,
+      "name": "Samsung Note 10",
+      "brand": "Samsung",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 24,
+      "name": "Samsung S11",
+      "brand": "Samsung",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 25,
+      "name": "Samsung S11 plus",
+      "brand": "Samsung",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 26,
+      "name": "Huawei P40 pro",
+      "brand": "Huawei",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 27,
+      "name": "Huawei Mate 30 Pro",
+      "brand": "Huawei",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 28,
+      "name": "Sony Xperia 5",
+      "brand": "Sony",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 29,
+      "name": "Google pixel 4",
+      "brand": "Google",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 30,
+      "name": "Xiaomi Mi Note 10",
+      "brand": "Xiaomi",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 31,
+      "name": "Apple Iphone XS",
+      "brand": "Apple",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 32,
+      "name": "Apple Iphone XS Max",
+      "brand": "Apple",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 33,
+      "name": "Huawei Mate X",
+      "brand": "Huawei",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 34,
+      "name": "Samsung Galaxy Fold",
+      "brand": "Samsung",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 35,
+      "name": "Red Hydrogen",
+      "brand": "Red",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 36,
+      "name": "Asus Rog",
+      "brand": "Asus",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 37,
+      "name": "Samsung Note 10 plus",
+      "brand": "Samsung",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 38,
+      "name": "Apple Iphone Pro",
+      "brand": "Apple",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
+    },
+    {
+      "id": 39,
+      "name": "Apple Iphone Pro Max",
+      "brand": "HuaApplewei",
+      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
+      "launchDate": "May 29, 2019",
+      "rating": "4.2"
     }
-
   ]
 }
