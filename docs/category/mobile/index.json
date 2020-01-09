@@ -290,7 +290,7 @@
     },
     {
       "id": 35,
-      "name": "Red Hydrogen",
+      "name": "Red Hydrogen One",
       "brand": "Red",
       "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
       "launchDate": "May 29, 2019",
@@ -298,7 +298,7 @@
     },
     {
       "id": 36,
-      "name": "Asus Rog",
+      "name": "Asus Rog Phone 2",
       "brand": "Asus",
       "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
       "launchDate": "May 29, 2019",
@@ -323,7 +323,7 @@
     {
       "id": 39,
       "name": "Apple Iphone Pro Max",
-      "brand": "HuaApplewei",
+      "brand": "Apple",
       "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
       "launchDate": "May 29, 2019",
       "rating": "4.2"
