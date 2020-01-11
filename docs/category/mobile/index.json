@@ -161,14 +161,6 @@
       "rating": "4.2"
     },
     {
-      "id": 19,
-      "name": "Asus Zenfone 6",
-      "brand": "Asus",
-      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
-      "launchDate": "May 29, 2019",
-      "rating": "4.2"
-    },
-    {
       "id": 20,
       "name": "Asus Zenfone 6",
       "brand": "Asus",
@@ -310,7 +302,7 @@
       "brand": "Samsung",
       "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
       "launchDate": "May 29, 2019",
-      "rating": "4.2"
+      "rating": "4.9"
     },
     {
       "id": 38,
@@ -318,15 +310,15 @@
       "brand": "Apple",
       "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
       "launchDate": "May 29, 2019",
-      "rating": "4.2"
+      "rating": "4.9"
     },
     {
       "id": 39,
       "name": "Apple Iphone Pro Max",
       "brand": "Apple",
-      "price": "₹ 14,999, $ 234.99, £ 195.00, € 267.13",
-      "launchDate": "May 29, 2019",
-      "rating": "4.2"
+      "price": "₹ 109,900, $ 1,044.00, £ 970.00, € 1,172.00",
+      "launchDate": "Sept 09, 2019",
+      "rating": "4.9"
     }
   ]
 }
