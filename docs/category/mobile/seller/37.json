@@ -1,0 +1,28 @@
+{
+  "INR": [
+    {
+      "vendor": "amazon",
+      "link": "https://amzn.to/2FIFLlX",
+      "price": "16889.00"
+    },
+    {
+      "vendor": "flipkart",
+      "link": "hhttps://www.flipkart.com/realme-x-space-blue-128-gb/p/itmfgybqzcgbxs26",
+      "price": "16999.00"
+    }
+  ],
+  "USD": [
+    {
+      "vendor": "amazon",
+      "link": "",
+      "price": ""
+    },
+    {
+      "vendor": "bestbuy",
+      "link": "",
+      "price": ""
+    }
+
+  ]
+
+}
